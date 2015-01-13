@@ -44,6 +44,7 @@ namespace Cheers
             System.Console.WriteLine("When is your birthday?");
             date bDayStr = System.Console.ReadLine();
 
+            // adding another line for github update
 
             // finish off the console window
             System.Console.WriteLine("Press any key to exit");
